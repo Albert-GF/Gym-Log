@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gym-log-v3';
+const CACHE_NAME = 'gym-log-v2';
 const APP_SHELL = [
   './index.html',
   './manifest.json',
